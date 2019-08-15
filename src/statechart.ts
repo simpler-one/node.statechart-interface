@@ -23,4 +23,3 @@ export interface StatechartTransition {
     action: string;
     destination: string;
 }
-
