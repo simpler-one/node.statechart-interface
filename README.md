@@ -6,4 +6,4 @@
 [![codecov](https://codecov.io/gh/work-work-komei/node.statechart-interface/branch/develop/graph/badge.svg)](https://codecov.io/gh/work-work-komei/node.statechart-interface)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
-Interface for [statechart-interface](https://github.com/work-work-komei/node.state-machine) and [puml-writer](https://github.com/work-work-komei/node.puml-writer)
+Interface for [state-machine](https://github.com/work-work-komei/node.state-machine) and [puml-writer](https://github.com/work-work-komei/node.puml-writer)
